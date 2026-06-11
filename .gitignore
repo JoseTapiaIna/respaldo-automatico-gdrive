@@ -1,0 +1,11 @@
+# Credenciales y tokens: nunca subir al repositorio
+config/
+credentials.json
+token.json
+client_secret*.json
+
+# Logs y archivos temporales
+logs/
+temp/
+*.log
+*.tar.gz
