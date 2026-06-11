@@ -18,6 +18,7 @@ El sistema está formado por tres scripts que trabajan en cadena:
 1. `auth_gdrive.sh` se ejecuta una única vez para vincular la cuenta de Google. Genera la URL de autorización, recibe el código que entrega Google y lo intercambia por los tokens de acceso.
 2. `refresh_token.sh` renueva el token antes de cada respaldo, ya que Google los hace expirar aproximadamente cada una hora.
 3. `backup_gdrive.sh` es el script principal: comprime la carpeta configurada, solicita un token vigente, ubica (o crea) la carpeta de destino en Drive y sube el archivo comprimido.
+4. `cleanup_gdrive.sh` (opcional) elimina de Drive los respaldos con más de 7 días de antigüedad, para mantener controlado el espacio utilizado.
 
 Los tokens quedan guardados en `config/token.json` y el historial de ejecuciones en la carpeta `logs/`.
 
