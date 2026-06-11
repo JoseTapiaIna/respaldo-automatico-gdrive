@@ -1,0 +1,33 @@
+[2026-06-11 01:29:53] ======= INICIO DE RESPALDO =======
+[2026-06-11 01:29:53] Comprimiendo /home/lenovo/datos...
+[2026-06-11 01:29:53] Archivo creado: /home/lenovo/backup_gdrive/temp/backup_20260611_012953.tar.gz (4.0K)
+[2026-06-11 01:29:53] Token OAuth2 renovado correctamente.
+[2026-06-11 01:29:53] Buscando carpeta 'Respaldos_Linux' en Google Drive...
+[2026-06-11 01:29:54] Carpeta no encontrada. Creando 'Respaldos_Linux'...
+[2026-06-11 01:29:55] Carpeta creada con ID: 1BZnUQNqiV09P4vTs_bn41sFbM7xdHxpy
+[2026-06-11 01:29:55] Subiendo backup_20260611_012953.tar.gz a Google Drive...
+[2026-06-11 01:29:56] Respaldo subido correctamente. ID Drive: 1ei80GixdwNcNTpf5nuxTxj5pFclubTyi
+[2026-06-11 01:29:56] Archivo temporal eliminado.
+[2026-06-11 01:29:56] ======= RESPALDO COMPLETADO =======
+[2026-06-11 01:34:27] ======= INICIO DE RESPALDO =======
+[2026-06-11 01:34:27] ERROR: el directorio fuente /home/lenovo/noexiste no existe. Abortando.
+[2026-06-11 01:35:23] ======= INICIO DE RESPALDO =======
+[2026-06-11 01:35:23] Comprimiendo /home/lenovo/datos...
+[2026-06-11 01:35:23] Archivo creado: /home/lenovo/backup_gdrive/temp/backup_20260611_013523.tar.gz (4.0K)
+[2026-06-11 01:35:24] Token OAuth2 renovado correctamente.
+[2026-06-11 01:35:24] Buscando carpeta 'Respaldos_Linux' en Google Drive...
+[2026-06-11 01:35:24] Carpeta encontrada con ID: 1BZnUQNqiV09P4vTs_bn41sFbM7xdHxpy
+[2026-06-11 01:35:24] Subiendo backup_20260611_013523.tar.gz a Google Drive...
+[2026-06-11 01:35:26] Respaldo subido correctamente. ID Drive: 1tmQabyWOPv59u0o-r7dfwXcd_UP2N2lp
+[2026-06-11 01:35:26] Archivo temporal eliminado.
+[2026-06-11 01:35:26] ======= RESPALDO COMPLETADO =======
+[2026-06-11 01:40:08] ======= INICIO DE RESPALDO =======
+[2026-06-11 01:40:08] Comprimiendo /home/lenovo/datos...
+[2026-06-11 01:40:08] Archivo creado: /home/lenovo/backup_gdrive/temp/backup_20260611_014008.tar.gz (4.0K)
+[2026-06-11 01:40:08] Token OAuth2 renovado correctamente.
+[2026-06-11 01:40:08] Buscando carpeta 'Respaldos_Linux' en Google Drive...
+[2026-06-11 01:40:09] Carpeta encontrada con ID: 1BZnUQNqiV09P4vTs_bn41sFbM7xdHxpy
+[2026-06-11 01:40:09] Subiendo backup_20260611_014008.tar.gz a Google Drive...
+[2026-06-11 01:40:11] Respaldo subido correctamente. ID Drive: 1q2QImi2jUM5Cde111TZuY2w9qoMHKZnk
+[2026-06-11 01:40:11] Archivo temporal eliminado.
+[2026-06-11 01:40:11] ======= RESPALDO COMPLETADO =======

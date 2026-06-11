@@ -4,8 +4,6 @@ credentials.json
 token.json
 client_secret*.json
 
-# Logs y archivos temporales
-logs/
+# Archivos temporales
 temp/
-*.log
 *.tar.gz
